@@ -34,7 +34,7 @@ namespace Umbraco8.Composers
 }
 ```
 
-It is a requirement that your custom controller inherit from `Umbraco.Web.MVC.RenderMvcController`.
+It is a requirement that your custom controller inherit from `Umbraco.Web.Mvc.RenderMvcController`.
 You can override the `Index` method to perform any customisations that you require.
 
 ## Custom controller selection
